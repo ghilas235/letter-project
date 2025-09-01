@@ -1,2 +1,3 @@
-# letter-project
+
 "i hope you read this, even if it's too late."
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=FF000000&width=435&lines=+%22i+hope+you+read+this%2C+even+if+it's+too+late.%22+%22i+just+want+to+say+that+i+miss+you+and+i'm+sorry+for+what+i+did+to+you+when+everything+end+up+and+we+stop+talking+i+felt+like+something+on+me+is+missing+and+i+just+want+to+say+that+i+wish+we+try+again+and+i+will+never+do+the+mistakes+that+i+made+before+you're+everything+to+me+i+don't+wanna+to+lose+you+anyway+if+you+decide+we+can+try+again+i'll+be+happy+with+that+if+not+i+wish+for+you+to+reach+all+your+dreams+and+meet+the+person+who+truly+deserves+your+heart+i+love+you%22)](https://git.io/typing-svg)

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Letter Project</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #ffffff;
+      font-family: 'Fira Code', monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+    .typing {
+      font-size: 20px;
+      border-right: 2px solid #ff0000;
+      white-space: pre-wrap;
+      overflow: hidden;
+      animation: typing 8s steps(50, end), blink 0.7s step-end infinite;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #ff0000 }
+    }
+  </style>
+</head>
+<body>
+  <div class="typing">
+    "i hope you read this, even if it's too late."
+    <br><br>
+    "i just want to say that i miss you and i'm sorry for what i did to you. 
+    when everything end up and we stop talking i felt like something on me is missing. 
+    i just want to say that i wish we try again, and i will never do the mistakes that i made before. 
+    you're everything to me, i don't wanna to lose you. 
+    anyway if you decide we can try again i'll be happy with that. 
+    if not, i wish for you to reach all your dreams and meet the person who truly deserves your heart. 
+    i love you."
+  </div>
+</body>
+</html>
